@@ -2,6 +2,7 @@
 layout: publications
 published: true
 ---
+Bercovici, D., & Ricard, Y., (2016). Grain-damage hysteresis and plate tectonic states. Physics of the Earth and Planetary Interiors, 253, 31-47. [http://dx.doi.org/10.1016/j.pepi.2016.01.005](http://dx.doi.org/10.1016/j.pepi.2016.01.005)
 
 Black, B.A., and M. Manga (2016), The eruptibility of magmas at Tharsis and Syrtis Major on Mars, Journal of Geophysical Research, vol. 121. [http://dx.doi.org/10.1002/2016JE004998](http://dx.doi.org/10.1002/2016JE004998)
 
