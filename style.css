@@ -394,6 +394,11 @@ a.tag {
 	font-size: 110%;
 	margin-bottom: 20px;
 }
+
+#projectcontent a {
+	color: #3771C8; #3771C8;
+	text-decoration: underline;
+}
 /*
 a.pdf {
 	color: #3771C8; #3771C8;
