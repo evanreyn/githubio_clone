@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Core Formation in the Lab
 ---
 ## Core Formation in the Lab
