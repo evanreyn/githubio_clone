@@ -2,11 +2,18 @@
 layout: publications
 published: true
 ---
+
+**/2017**
+
+Olson, P., Landeau, M., and Hirsh, B., (2017). Laboratory experiments on rain-driven convection: Implications for planetary dynamos, Earth and Planetary Science Letters, Volume 457, 403-411. [http://dx.doi.org/10.1016/j.epsl.2016.10.015](http://dx.doi.org/10.1016/j.epsl.2016.10.015)
+
 **/2016**
 
 Bercovici, D., & Ricard, Y., (2016). Grain-damage hysteresis and plate tectonic states. Physics of the Earth and Planetary Interiors, 253, 31-47. [http://dx.doi.org/10.1016/j.pepi.2016.01.005](http://dx.doi.org/10.1016/j.pepi.2016.01.005)
 
 Black, B.A., and M. Manga (2016), The eruptibility of magmas at Tharsis and Syrtis Major on Mars, Journal of Geophysical Research, vol. 121. [http://dx.doi.org/10.1002/2016JE004998](http://dx.doi.org/10.1002/2016JE004998)
+
+Black, B.A., and M. Manga (2016), Volatiles and the tempo of flood basalt magmatism, Earth and Planetary Science Letters. [http://dx.doi.org/10.1016/j.epsl.2016.09.035](http://dx.doi.org/10.1016/j.epsl.2016.09.035)
 
 Burns, E. R., S. E. Ingebritsen, M. Manga, and C. F. Williams (2016), Evaluating geothermal and hydrogeologic controls on regional groundwater temperature distribution, Water Resour. Res., 52.  [http://dx.doi.org/10.1002/2015WR018204](http://dx.doi.org/10.1002/2015WR018204)
  
