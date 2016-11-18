@@ -2,7 +2,7 @@
 layout: publications
 published: true
 ---
-__**2016**__
+**/2016**
 
 Bercovici, D., & Ricard, Y., (2016). Grain-damage hysteresis and plate tectonic states. Physics of the Earth and Planetary Interiors, 253, 31-47. [http://dx.doi.org/10.1016/j.pepi.2016.01.005](http://dx.doi.org/10.1016/j.pepi.2016.01.005)
 
