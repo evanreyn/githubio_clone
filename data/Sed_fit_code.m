@@ -13,7 +13,7 @@ end
 Sed3=zeros(count_3,2);
 
 % Add data to array and normalize by basin area (BasinAreas are the
-% average grid box area for each basin)
+% average grid box area for each basin, calculated with AREA gridded data)
  
 for i =1:6485401;
 if OceanBasinCode(i) == 3 && isnan(MAge000(i)) == 0 && isnan(STW13(i))==0 && MAge000(i) <= 150;
