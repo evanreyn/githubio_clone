@@ -1,20 +1,20 @@
-Dataset index (4):
+Dataset indeX:
 Archer_SedAccumRate.mat
-AREA.matDivins_SedThickness.matETOPO1_Bathymetry.matMuller_CrustalAge.mat
+Divins_SedThickness.mat
+ETOPO1_Bathymetry.mat
+Muller_CrustalAge.mat
 Ocean_basin_code.mat
 
 
 All data are in 0.1 degree grids (1801x3601).
 
-Archer`s Sediment Accumulation Rate (Archer_SedAccumRate.mat) units: m/Ma
+Archer`s Sediment Accumulation Rate (Archer_SedAccumRate.mat = SAR) units: m/Ma
 
-Grid area (AREA.mat) units: km^2
-
-Divins` Sediment Thickness (Divins_SedThickness.mat) units: m
+Divins` Sediment Thickness (Divins_SedThickness.mat = STW13) units: m
 
 ETOPO1 Bathymetry (ETOPO1_Bathymetry.mat) units: m
 
-Muller`s Crustal Age (Muller_CrustalAge.mat) units: Ma
+Muller`s Crustal Age (Muller_CrustalAge.mat = MAge000) units: Ma
 
 Ocean basin codes:
 3 = Indian 
